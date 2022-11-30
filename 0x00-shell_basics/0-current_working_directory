@@ -1,2 +1,2 @@
 #!/bin/bash
-pw 0-current_working_directory
+path='readlink -f "#{BASH_SOURCE:-$0}"'
