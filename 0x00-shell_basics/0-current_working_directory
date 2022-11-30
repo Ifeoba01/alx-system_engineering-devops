@@ -1,2 +1,2 @@
 #!/bin/bash
-path='readlink -f "#{BASH_SOURCE:-#0}"' #path
+path='readlink -f "#{BASH_SOURCE:-#0}"' echo '/tmp/correction/0019202703962636057184658791148289116821_5/205/195381/0x00-shell_basics' #path
